@@ -1,0 +1,14 @@
+{
+  "name": "goon-crafts",
+  "version": "1.0.0",
+  "description": "potential leather online store",
+  "main": "main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Goon",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
